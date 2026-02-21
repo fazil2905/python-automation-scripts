@@ -8,4 +8,3 @@ with open(file_name, "r") as file:
         count += 1
 
 print(f"\nTotal lines: {count}")
-
